@@ -1,0 +1,5 @@
+a place holder for a resume to go here.
+
+That's what static files are! Well, at least this is an example of one.
+
+Probably should be a .pdf 
